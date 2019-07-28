@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.taranakiyoga.com" resolutions="1x" timestamp="1555062236951">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.taranakiyoga.com" resolutions="1x" timestamp="1564297972327">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3773310383" ref="index"/>
+    <file name="index.css" crc="3901180097" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -70,10 +70,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4254966723" ref="phone>index"/>
-      <file name="index.css" crc="496227784" ref="phone>index"/>
+      <file name="master_a-master.css" crc="4073136356" ref="phone>index"/>
+      <file name="index.css" crc="4127704592" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3995268498" seo="true" mt="1555062173400" redirect="true"/>
+    <file name="index.html" crc="443406650" seo="true" mt="1564297949926" redirect="true"/>
   </folder>
-  <file name="index.html" crc="214205935" seo="true" mt="1555061905978" redirect="true"/>
+  <file name="index.html" crc="4126788602" seo="true" mt="1564297876189" redirect="true"/>
 </manifest>
