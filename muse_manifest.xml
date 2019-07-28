@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.taranakiyoga.com" resolutions="1x" timestamp="1564297972327">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.taranakiyoga.com" resolutions="1x" timestamp="1564301893360">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3901180097" ref="index"/>
@@ -73,7 +73,7 @@
       <file name="master_a-master.css" crc="4073136356" ref="phone>index"/>
       <file name="index.css" crc="4127704592" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="443406650" seo="true" mt="1564297949926" redirect="true"/>
+    <file name="index.html" crc="226122983" seo="true" mt="1564300214504" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4126788602" seo="true" mt="1564297876189" redirect="true"/>
+  <file name="index.html" crc="3905128433" seo="true" mt="1564300199258" redirect="true"/>
 </manifest>
